@@ -18,7 +18,7 @@ export default function DashboardMap() {
       zoom={6}
       scrollWheelZoom={true}
       zoomControl={false}
-      style={{ height: "100vh", width: "100%" }}
+      style={{ height: "100vh", width: "100%", backgroundColor: "white" }}
     >
 
       <GeoJSON
