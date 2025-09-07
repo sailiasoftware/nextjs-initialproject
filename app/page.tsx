@@ -1,4 +1,4 @@
-import DashboardMap from "@/components/DashboardMap";
+import DashboardMap from "@/components/DashboardMap/DynamicMap";
 import PaymentsContainer from "@/components/PaymentsContainer";
 import Image from "next/image";
 
